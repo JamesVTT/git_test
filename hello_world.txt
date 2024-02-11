@@ -1,2 +1,3 @@
 Hello world text 
 Testing out Git Commit
+Now I'm going to Git Commit within VSCode 
